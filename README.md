@@ -1,17 +1,15 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/alinesoglia/bad161d8b39e5b54c88a8d08d27299fd/raw/0affea7e5dd8b6ffdee2a9e1f668877a89c54a49/githubcard.svg"/>
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou a Aline Soglia!</h1>
+<img align="right" height="590em" src="https://gist.githubusercontent.com/alinesoglia/f7526a84e2b6ad1d23b13ea0d0b151e4/raw/1fd6e1de0a5e21ecf2a667520e1a959868f5bbbb/githubcard.svg"/>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Aline Soglia!</h1>
   
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=alinesoglia&color=yellow" alt="Profile views" /> </p>
  
-- 😄 Pronomes: Ela / Dela 
-- 🔥 Concluí o curso online Eu ProgrAmo - Front-End #1 da [Programaria](https://www.programaria.org/)
-- ⚡ Participei do bootcamp NLW Setup da [RocketSeat](https://www.rocketseat.com.br/) 
-
-- 🔭 Atualmente estudando pela [Alura](https://www.alura.com.br/)
+- 😄 Pronouns: She / Her
+- 🏳️‍🌈 LGBTQIA+
+- 🔭 I’m currently learning with the help of [Alura](https://www.alura.com.br/), [Rocketseat](https://www.rocketseat.com.br/), [PrograMaria](https://www.programaria.org/) and [freeCodeCamp](https://www.freecodecamp.org/)
 
 <br>
 
-<h2> 🛠 &nbsp;Tecnologias que estou aprendendo</h2>
+<h2> 🛠 &nbsp;Tech Stack</h2>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -31,7 +29,7 @@
 -->
 
 <br>
-<h2>👨‍💻 &nbsp;Redes Sociais</h2>
+<h2>👨‍💻 &nbsp;Contact</h2>
 
 <p align="left" style="background:yellow">
  <a href="https://www.linkedin.com/in/aline-pelegrino-soglia-913b57183/" target="_blank">
