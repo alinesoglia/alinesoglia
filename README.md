@@ -1,5 +1,5 @@
 <img align="right" height="590em" src="https://gist.githubusercontent.com/alinesoglia/f7526a84e2b6ad1d23b13ea0d0b151e4/raw/1fd6e1de0a5e21ecf2a667520e1a959868f5bbbb/githubcard.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Aline Soglia!</h1>
+<h1 align="left">Hi, I'm Aline Soglia!</h1>
   
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=alinesoglia&color=yellow" alt="Profile views" /> </p>
  
