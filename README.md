@@ -5,7 +5,7 @@
  
 - 😄 Pronouns: She / Her
 - 🏳️‍🌈 LGBTQIA+
-- 🔭 I’m currently learning with the help of [Alura](https://www.alura.com.br/), [Rocketseat](https://www.rocketseat.com.br/), [PrograMaria](https://www.programaria.org/) and [freeCodeCamp](https://www.freecodecamp.org/)
+- 🔭 I’m currently learning with the help of [Generation Brasil](https://brazil.generation.org/), [Alura](https://www.alura.com.br/), [Rocketseat](https://www.rocketseat.com.br/), [PrograMaria](https://www.programaria.org/) and [freeCodeCamp](https://www.freecodecamp.org/)
 
 <br>
 
