@@ -32,7 +32,7 @@
 <h2>👨‍💻 &nbsp;Contact</h2>
 
 <p align="left" style="background:yellow">
- <a href="https://www.linkedin.com/in/aline-pelegrino-soglia-913b57183/" target="_blank">
+ <a href="https://www.linkedin.com/in/aline-soglia/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-alinepelegrinosoglia-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://codepen.io/alinesoglia/" target="_blank">
