@@ -8,9 +8,14 @@
 - 🔭 I’m currently learning with the help of [Generation Brasil](https://brazil.generation.org/), [Alura](https://www.alura.com.br/), [Rocketseat](https://www.rocketseat.com.br/), [PrograMaria](https://www.programaria.org/) and [freeCodeCamp](https://www.freecodecamp.org/)
 
 <br>
-
 <h2> 🛠 &nbsp;Tech Stack</h2>
 
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=springboot)&nbsp;
+![Eclipse](https://img.shields.io/badge/Eclipse-05122A?style=flat&logo=eclipse)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker)&nbsp;
+![React](https://img.shields.io/badge/React-05122A?style=flat&logo=react)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -19,14 +24,13 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<!--<br><br>
-## ⚙️ &nbsp;GitHub Analytics
+<br>
+<h2>⚙️ &nbsp;GitHub Analytics</h2>
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=alinesoglia&theme=radical&show_icons=true" alt="alinesoglia's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinesoglia&layout=compact&theme=vision-friendly-dark" alt="alinesoglia's most languages"/>
+<!--<img width="530em" src="https://github-readme-stats.vercel.app/api?username=alinesoglia&theme=radical&show_icons=true" alt="alinesoglia's stats"/>-->
+<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinesoglia&layout=compact&theme=vision-friendly-dark" alt="alinesoglia's most languages"/>
 </p>
--->
 
 <br>
 <h2>👨‍💻 &nbsp;Contact</h2>
